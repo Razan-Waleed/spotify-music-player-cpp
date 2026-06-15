@@ -1,0 +1,9 @@
+100,blinding lights,the weeknd,14,29
+101,shape of you,ed sheeren,6,9
+102,believer,imagine dragons,8,25
+103,havana,camila cabello,12,26
+104,counting tsars,onerepublic,10,28
+105,Fe Youm w Leila,Warda El Gazairia,4,0
+106,Tamally Ma'ak,Amr Diab,4,18
+107,Kan Ya Makan,Myada Elhenawy,2,0
+108,Safar,Warda El Gazairia,1,11
